@@ -1,7 +1,10 @@
 FinanceCore Database Project
 📌 Contexte du projet
+
 Ce projet consiste à concevoir une base de données relationnelle normalisée (3NF) dans le domaine bancaire.
+
 L’objectif est de structurer, charger et analyser des données financières propres afin de produire des analyses fiables pour le métier.
+
 🎯 Objectifs Concevoir un modèle relationnel cohérent (3NF) Identifier les entités : Clients, Comptes, Transactions, Produits, Agences, Segments Créer une base PostgreSQL avec contraintes d’intégrité Charger des données propres depuis un fichier CSV via SQLAlchemy Réaliser des requêtes SQL analytiques avancées Vérifier l’intégrité des données après insertion
 
 🧱 Étapes du projet
